@@ -1,0 +1,2817 @@
+fileFormatVersion: 2
+guid: e47d6689a456a4c4bae0ec275e4d435a
+timeCreated: 1558578179
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman4_robotmasters_sheet_0
+    21300002: megaman4_robotmasters_sheet_1
+    21300004: megaman4_robotmasters_sheet_2
+    21300006: megaman4_robotmasters_sheet_3
+    21300008: megaman4_robotmasters_sheet_4
+    21300010: megaman4_robotmasters_sheet_5
+    21300012: megaman4_robotmasters_sheet_6
+    21300014: megaman4_robotmasters_sheet_7
+    21300016: megaman4_robotmasters_sheet_8
+    21300018: megaman4_robotmasters_sheet_9
+    21300020: megaman4_robotmasters_sheet_10
+    21300022: megaman4_robotmasters_sheet_11
+    21300024: megaman4_robotmasters_sheet_12
+    21300026: megaman4_robotmasters_sheet_13
+    21300028: megaman4_robotmasters_sheet_14
+    21300030: megaman4_robotmasters_sheet_15
+    21300032: megaman4_robotmasters_sheet_16
+    21300034: megaman4_robotmasters_sheet_17
+    21300036: megaman4_robotmasters_sheet_18
+    21300038: megaman4_robotmasters_sheet_19
+    21300040: megaman4_robotmasters_sheet_20
+    21300042: megaman4_robotmasters_sheet_21
+    21300044: megaman4_robotmasters_sheet_22
+    21300046: megaman4_robotmasters_sheet_23
+    21300048: megaman4_robotmasters_sheet_24
+    21300050: megaman4_robotmasters_sheet_25
+    21300052: megaman4_robotmasters_sheet_26
+    21300054: megaman4_robotmasters_sheet_27
+    21300056: megaman4_robotmasters_sheet_28
+    21300058: megaman4_robotmasters_sheet_29
+    21300060: megaman4_robotmasters_sheet_30
+    21300062: megaman4_robotmasters_sheet_31
+    21300064: megaman4_robotmasters_sheet_32
+    21300066: megaman4_robotmasters_sheet_33
+    21300068: megaman4_robotmasters_sheet_34
+    21300070: megaman4_robotmasters_sheet_35
+    21300072: megaman4_robotmasters_sheet_36
+    21300074: megaman4_robotmasters_sheet_37
+    21300076: megaman4_robotmasters_sheet_38
+    21300078: megaman4_robotmasters_sheet_39
+    21300080: megaman4_robotmasters_sheet_40
+    21300082: megaman4_robotmasters_sheet_41
+    21300084: megaman4_robotmasters_sheet_42
+    21300086: megaman4_robotmasters_sheet_43
+    21300088: megaman4_robotmasters_sheet_44
+    21300090: megaman4_robotmasters_sheet_45
+    21300092: megaman4_robotmasters_sheet_46
+    21300094: megaman4_robotmasters_sheet_47
+    21300096: megaman4_robotmasters_sheet_48
+    21300098: megaman4_robotmasters_sheet_49
+    21300100: megaman4_robotmasters_sheet_50
+    21300102: megaman4_robotmasters_sheet_51
+    21300104: megaman4_robotmasters_sheet_52
+    21300106: megaman4_robotmasters_sheet_53
+    21300108: megaman4_robotmasters_sheet_54
+    21300110: megaman4_robotmasters_sheet_55
+    21300112: megaman4_robotmasters_sheet_56
+    21300114: megaman4_robotmasters_sheet_57
+    21300116: megaman4_robotmasters_sheet_58
+    21300118: megaman4_robotmasters_sheet_59
+    21300120: megaman4_robotmasters_sheet_60
+    21300122: megaman4_robotmasters_sheet_61
+    21300124: megaman4_robotmasters_sheet_62
+    21300126: megaman4_robotmasters_sheet_63
+    21300128: megaman4_robotmasters_sheet_64
+    21300130: megaman4_robotmasters_sheet_65
+    21300132: megaman4_robotmasters_sheet_66
+    21300134: megaman4_robotmasters_sheet_67
+    21300136: megaman4_robotmasters_sheet_68
+    21300138: megaman4_robotmasters_sheet_69
+    21300140: megaman4_robotmasters_sheet_70
+    21300142: megaman4_robotmasters_sheet_71
+    21300144: megaman4_robotmasters_sheet_72
+    21300146: megaman4_robotmasters_sheet_73
+    21300148: megaman4_robotmasters_sheet_74
+    21300150: megaman4_robotmasters_sheet_75
+    21300152: megaman4_robotmasters_sheet_76
+    21300154: megaman4_robotmasters_sheet_77
+    21300156: megaman4_robotmasters_sheet_78
+    21300158: megaman4_robotmasters_sheet_79
+    21300160: megaman4_robotmasters_sheet_80
+    21300162: megaman4_robotmasters_sheet_81
+    21300164: megaman4_robotmasters_sheet_82
+    21300166: megaman4_robotmasters_sheet_83
+    21300168: megaman4_robotmasters_sheet_84
+    21300170: megaman4_robotmasters_sheet_85
+    21300172: megaman4_robotmasters_sheet_86
+    21300174: megaman4_robotmasters_sheet_87
+    21300176: megaman4_robotmasters_sheet_88
+    21300178: megaman4_robotmasters_sheet_89
+    21300180: megaman4_robotmasters_sheet_90
+    21300182: megaman4_robotmasters_sheet_91
+    21300184: megaman4_robotmasters_sheet_92
+    21300186: megaman4_robotmasters_sheet_93
+    21300188: megaman4_robotmasters_sheet_94
+    21300190: megaman4_robotmasters_sheet_95
+    21300192: megaman4_robotmasters_sheet_96
+    21300194: megaman4_robotmasters_sheet_97
+    21300196: megaman4_robotmasters_sheet_98
+    21300198: megaman4_robotmasters_sheet_99
+    21300200: megaman4_robotmasters_sheet_100
+    21300202: megaman4_robotmasters_sheet_101
+    21300204: megaman4_robotmasters_sheet_102
+    21300206: megaman4_robotmasters_sheet_103
+    21300208: megaman4_robotmasters_sheet_104
+    21300210: megaman4_robotmasters_sheet_105
+    21300212: megaman4_robotmasters_sheet_106
+    21300214: megaman4_robotmasters_sheet_107
+    21300216: megaman4_robotmasters_sheet_108
+    21300218: megaman4_robotmasters_sheet_109
+    21300220: megaman4_robotmasters_sheet_110
+    21300222: megaman4_robotmasters_sheet_111
+    21300224: megaman4_robotmasters_sheet_112
+    21300226: megaman4_robotmasters_sheet_113
+    21300228: megaman4_robotmasters_sheet_114
+    21300230: megaman4_robotmasters_sheet_115
+    21300232: megaman4_robotmasters_sheet_116
+    21300234: megaman4_robotmasters_sheet_117
+    21300236: megaman4_robotmasters_sheet_118
+    21300238: megaman4_robotmasters_sheet_119
+    21300240: megaman4_robotmasters_sheet_120
+    21300242: megaman4_robotmasters_sheet_121
+    21300244: megaman4_robotmasters_sheet_122
+    21300246: megaman4_robotmasters_sheet_123
+    21300248: megaman4_robotmasters_sheet_124
+    21300250: megaman4_robotmasters_sheet_125
+    21300252: megaman4_robotmasters_sheet_126
+    21300254: megaman4_robotmasters_sheet_127
+    21300256: megaman4_robotmasters_sheet_128
+    21300258: megaman4_robotmasters_sheet_129
+    21300260: megaman4_robotmasters_sheet_130
+    21300262: megaman4_robotmasters_sheet_131
+    21300264: megaman4_robotmasters_sheet_132
+    21300266: megaman4_robotmasters_sheet_133
+    21300268: megaman4_robotmasters_sheet_134
+    21300270: megaman4_robotmasters_sheet_135
+    21300272: megaman4_robotmasters_sheet_136
+    21300274: megaman4_robotmasters_sheet_137
+    21300276: megaman4_robotmasters_sheet_138
+    21300278: megaman4_robotmasters_sheet_139
+    21300280: megaman4_robotmasters_sheet_140
+    21300282: megaman4_robotmasters_sheet_141
+    21300284: megaman4_robotmasters_sheet_142
+    21300286: megaman4_robotmasters_sheet_143
+    21300288: megaman4_robotmasters_sheet_144
+    21300290: megaman4_robotmasters_sheet_145
+    21300292: megaman4_robotmasters_sheet_146
+    21300294: megaman4_robotmasters_sheet_147
+    21300296: megaman4_robotmasters_sheet_148
+    21300298: megaman4_robotmasters_sheet_149
+    21300300: megaman4_robotmasters_sheet_150
+    21300302: megaman4_robotmasters_sheet_151
+    21300304: megaman4_robotmasters_sheet_152
+    21300306: megaman4_robotmasters_sheet_153
+    21300308: megaman4_robotmasters_sheet_154
+    21300310: megaman4_robotmasters_sheet_155
+    21300312: megaman4_robotmasters_sheet_156
+    21300314: megaman4_robotmasters_sheet_157
+    21300316: megaman4_robotmasters_sheet_158
+    21300318: megaman4_robotmasters_sheet_159
+    21300320: megaman4_robotmasters_sheet_160
+    21300322: megaman4_robotmasters_sheet_161
+    21300324: megaman4_robotmasters_sheet_162
+    21300326: megaman4_robotmasters_sheet_163
+    21300328: megaman4_robotmasters_sheet_164
+    21300330: megaman4_robotmasters_sheet_165
+    21300332: megaman4_robotmasters_sheet_166
+    21300334: megaman4_robotmasters_sheet_167
+    21300336: megaman4_robotmasters_sheet_168
+    21300338: megaman4_robotmasters_sheet_169
+    21300340: megaman4_robotmasters_sheet_170
+    21300342: megaman4_robotmasters_sheet_171
+    21300344: megaman4_robotmasters_sheet_172
+    21300346: megaman4_robotmasters_sheet_173
+    21300348: megaman4_robotmasters_sheet_174
+    21300350: megaman4_robotmasters_sheet_175
+    21300352: megaman4_robotmasters_sheet_176
+    21300354: megaman4_robotmasters_sheet_177
+    21300356: megaman4_robotmasters_sheet_178
+    21300358: megaman4_robotmasters_sheet_179
+    21300360: megaman4_robotmasters_sheet_180
+    21300362: megaman4_robotmasters_sheet_181
+    21300364: megaman4_robotmasters_sheet_182
+    21300366: megaman4_robotmasters_sheet_183
+    21300368: megaman4_robotmasters_sheet_184
+    21300370: megaman4_robotmasters_sheet_185
+    21300372: megaman4_robotmasters_sheet_186
+    21300374: megaman4_robotmasters_sheet_187
+    21300376: megaman4_robotmasters_sheet_188
+    21300378: megaman4_robotmasters_sheet_189
+    21300380: megaman4_robotmasters_sheet_190
+    21300382: megaman4_robotmasters_sheet_191
+    21300384: megaman4_robotmasters_sheet_192
+    21300386: megaman4_robotmasters_sheet_193
+    21300388: megaman4_robotmasters_sheet_194
+    21300390: megaman4_robotmasters_sheet_195
+    21300392: megaman4_robotmasters_sheet_196
+    21300394: megaman4_robotmasters_sheet_197
+    21300396: megaman4_robotmasters_sheet_198
+    21300398: megaman4_robotmasters_sheet_199
+    21300400: megaman4_robotmasters_sheet_200
+    21300402: megaman4_robotmasters_sheet_201
+    21300404: megaman4_robotmasters_sheet_202
+    21300406: megaman4_robotmasters_sheet_203
+    21300408: megaman4_robotmasters_sheet_204
+    21300410: megaman4_robotmasters_sheet_205
+    21300412: megaman4_robotmasters_sheet_206
+    21300414: megaman4_robotmasters_sheet_207
+    21300416: megaman4_robotmasters_sheet_208
+    21300418: megaman4_robotmasters_sheet_209
+    21300420: megaman4_robotmasters_sheet_210
+    21300422: megaman4_robotmasters_sheet_211
+    21300424: megaman4_robotmasters_sheet_212
+    21300426: megaman4_robotmasters_sheet_213
+    21300428: megaman4_robotmasters_sheet_214
+    21300430: megaman4_robotmasters_sheet_215
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megaman4_robotmasters_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 826
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 827
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 827
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -17, y: 9.5}
+        - {x: -17, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: -7.5}
+        - {x: 7, y: 17.5}
+    - name: megaman4_robotmasters_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 827
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 17.5}
+        - {x: -14, y: 17.5}
+        - {x: -16, y: 8.5}
+        - {x: -16, y: -16.5}
+        - {x: -15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: -9.5}
+        - {x: 7, y: 14.5}
+    - name: megaman4_robotmasters_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 825
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 825
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -7}
+        - {x: -9, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 11}
+        - {x: 8, y: 19}
+    - name: megaman4_robotmasters_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 776
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 776
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 776
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 776
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 776
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 790
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 724
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 725
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 15}
+        - {x: 5, y: 19}
+        - {x: -12, y: 19}
+        - {x: -16, y: 5}
+    - name: megaman4_robotmasters_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 726
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 726
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 726
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18}
+        - {x: -15, y: 18}
+        - {x: -18, y: 16}
+        - {x: -18, y: -6}
+        - {x: -2, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 2}
+        - {x: 13, y: 14}
+    - name: megaman4_robotmasters_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 732
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 742
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 733
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 754
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 735
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 739
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 735
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 736
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 743
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 730
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 700
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 703
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 700
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 674
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 677
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: megaman4_robotmasters_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 628
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 628
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16}
+        - {x: -18.5, y: 7}
+        - {x: -18.5, y: -13}
+        - {x: -16.5, y: -16}
+        - {x: 18.5, y: -16}
+        - {x: 18.5, y: -7}
+        - {x: 5.5, y: 16}
+    - name: megaman4_robotmasters_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 628
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 628
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 628
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 626
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 657
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 638
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 617
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 578
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -14}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: megaman4_robotmasters_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 578
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 578
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 578
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 578
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 578
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 527
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 527
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 515
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 24}
+        - {x: 2, y: 24}
+        - {x: -24, y: 1}
+        - {x: -24, y: -21}
+        - {x: -21, y: -24}
+        - {x: -4, y: -24}
+        - {x: 0, y: -21}
+        - {x: 24, y: 2}
+        - {x: 24, y: 21}
+    - name: megaman4_robotmasters_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 519
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -28, y: 12}
+        - {x: -28, y: -17}
+        - {x: -25, y: -20}
+        - {x: 5, y: -20}
+        - {x: 21, y: -17}
+        - {x: 28, y: -11}
+        - {x: 28, y: 12}
+        - {x: 22, y: 20}
+    - name: megaman4_robotmasters_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 515
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: 5, y: 17}
+        - {x: 4, y: 14}
+        - {x: 4, y: 10}
+        - {x: 3, y: 16}
+        - {x: -2, y: 24}
+        - {x: -21, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: -9}
+        - {x: -17, y: -19}
+        - {x: -9, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 13}
+        - {x: 17, y: 19}
+    - name: megaman4_robotmasters_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 511
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28}
+        - {x: -24, y: 21}
+        - {x: -24, y: -12}
+        - {x: -10, y: -28}
+        - {x: 19, y: -28}
+        - {x: 24, y: -19}
+        - {x: 24, y: 24}
+        - {x: 20, y: 28}
+    - name: megaman4_robotmasters_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 533
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 515
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 478
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 490
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 494
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 494
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 498
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 498
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 460
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 462
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 462
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 462
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 466
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 466
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 409
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 409
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 409
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 409
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 409
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 359
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 358
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 6}
+        - {x: 13, y: 11}
+    - name: megaman4_robotmasters_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 9.5}
+        - {x: 13, y: 16.5}
+    - name: megaman4_robotmasters_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 359
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 358
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 7.5}
+        - {x: 9, y: 15.5}
+    - name: megaman4_robotmasters_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 382
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 358
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 310
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 304
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 307
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 308
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 308
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 307
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 307
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 260
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 255
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -18}
+        - {x: -15, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 12}
+        - {x: 11, y: 19}
+    - name: megaman4_robotmasters_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 257
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 258
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 258
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 208
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 208
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 208
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 208
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 206
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 158
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 157
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 158
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 158
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 158
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 156
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 156
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 110
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 110
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 111
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 107
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 111
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 61
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 86
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 70
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 58
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: megaman4_robotmasters_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 11
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -23, y: 14}
+        - {x: -23, y: -17}
+        - {x: 23, y: -17}
+        - {x: 23, y: 17}
+    - name: megaman4_robotmasters_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 16}
+        - {x: 15, y: 19}
+    - name: megaman4_robotmasters_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19}
+        - {x: -17, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 8}
+        - {x: 12, y: 19}
+    - name: megaman4_robotmasters_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 5
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman4_robotmasters_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

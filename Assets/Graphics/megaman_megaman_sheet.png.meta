@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: 0febcaf6f93302e458d28d3437b0ccea
+timeCreated: 1558583364
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_megaman_sheet_0
+    21300002: megaman_megaman_sheet_1
+    21300004: megaman_megaman_sheet_2
+    21300006: megaman_megaman_sheet_3
+    21300008: megaman_megaman_sheet_4
+    21300010: megaman_megaman_sheet_5
+    21300012: megaman_megaman_sheet_6
+    21300014: megaman_megaman_sheet_7
+    21300016: megaman_megaman_sheet_8
+    21300018: megaman_megaman_sheet_9
+    21300020: megaman_megaman_sheet_10
+    21300022: megaman_megaman_sheet_11
+    21300024: megaman_megaman_sheet_12
+    21300026: megaman_megaman_sheet_13
+    21300028: megaman_megaman_sheet_14
+    21300030: megaman_megaman_sheet_15
+    21300032: megaman_megaman_sheet_16
+    21300034: megaman_megaman_sheet_17
+    21300036: megaman_megaman_sheet_18
+    21300038: megaman_megaman_sheet_19
+    21300040: megaman_megaman_sheet_20
+    21300042: megaman_megaman_sheet_21
+    21300044: megaman_megaman_sheet_22
+    21300046: megaman_megaman_sheet_23
+    21300048: megaman_megaman_sheet_24
+    21300050: megaman_megaman_sheet_25
+    21300052: megaman_megaman_sheet_26
+    21300054: megaman_megaman_sheet_27
+    21300056: megaman_megaman_sheet_28
+    21300058: megaman_megaman_sheet_29
+    21300060: megaman_megaman_sheet_30
+    21300062: megaman_megaman_sheet_31
+    21300064: megaman_megaman_sheet_32
+    21300066: megaman_megaman_sheet_33
+    21300068: megaman_megaman_sheet_34
+    21300070: megaman_megaman_sheet_35
+    21300072: megaman_megaman_sheet_36
+    21300074: megaman_megaman_sheet_37
+    21300076: megaman_megaman_sheet_38
+    21300078: megaman_megaman_sheet_39
+    21300080: megaman_megaman_sheet_40
+    21300082: megaman_megaman_sheet_41
+    21300084: megaman_megaman_sheet_42
+    21300086: megaman_megaman_sheet_43
+    21300088: megaman_megaman_sheet_44
+    21300090: megaman_megaman_sheet_45
+    21300092: megaman_megaman_sheet_46
+    21300094: megaman_megaman_sheet_47
+    21300096: megaman_megaman_sheet_48
+    21300098: megaman_megaman_sheet_49
+    21300100: megaman_megaman_sheet_50
+    21300102: megaman_megaman_sheet_51
+    21300104: megaman_megaman_sheet_52
+    21300106: megaman_megaman_sheet_53
+    21300108: megaman_megaman_sheet_54
+    21300110: megaman_megaman_sheet_55
+    21300112: megaman_megaman_sheet_56
+    21300114: megaman_megaman_sheet_57
+    21300116: megaman_megaman_sheet_58
+    21300118: megaman_megaman_sheet_59
+    21300120: megaman_megaman_sheet_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 22
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megaman_megaman_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 179
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 179
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 179
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 180
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 180
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 179
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 181
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 180
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 139
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 134
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 132
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 132
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 135
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 132
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 135
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 47
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 61
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 44
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 45
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 51
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megaman_megaman_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
